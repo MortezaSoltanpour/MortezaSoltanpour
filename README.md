@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Vue.js, Nuxt.js and Azure dev ops ...
+- 
 <!--
 **MortezaSoltanpour/MortezaSoltanpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
